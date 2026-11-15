@@ -66,10 +66,10 @@ Os tipos de domínio sem modificador `public` estão agrupados em `Dominio.java`
 
 ## Documentação e autoria
 
-Vídeo: [demonstração técnica automática com narração sintética](demonstracao-tecnica.mp4). O vídeo explica um recorte UML, o código e a saída real dos fluxos principal e alternativos. Não é uma gravação dos integrantes. A [saída textual capturada](DEMONSTRACAO.txt) permite conferir a demonstração.
+Vídeo: [demonstração técnica com apresentação de Luiz Augusto](demonstracao-tecnica.mp4). A versão atual usa seis gravações de voz fornecidas em 15/11/2026, sem voz sintética. O vídeo explica um recorte UML, o código e a saída real dos fluxos principal e alternativos. A [saída textual capturada](DEMONSTRACAO.txt) permite conferir a demonstração.
 
 Consulte a [Wiki do projeto](https://github.com/kauadev77/minha-refeicao-projeto-software/wiki) e o arquivo `MODELOS.md` para diagramas e correspondência UML → Java. A versão de implementação corrige a ausência de Assinante, Produto, ItemPedido, Endereço e Entrega apontada no feedback da Entrega 3 e inclui sobremesas, presentes no enunciado original.
 
-Código, documentação e testes preparados com auxílio de OpenAI Codex em 15/11/2026. O material deve ser revisado e compreendido pelos integrantes; não atribui ao grupo uma divisão de trabalho que não foi informada. A gravação da apresentação dos integrantes e a divisão real das responsabilidades precisam ser acrescentadas pelo grupo.
+Código, documentação e testes preparados com auxílio de OpenAI Codex em 15/11/2026. O material deve ser revisado e compreendido pelos integrantes; não atribui ao grupo uma divisão de trabalho que não foi informada. Luiz Augusto contribuiu com a gravação da apresentação técnica, incorporada ao vídeo em 15/11/2026. A participação/apresentação de Kauã e o registro completo da divisão real de responsabilidades ainda precisam ser complementados pelo grupo.
 
 Referências: enunciado do projeto no Moodle, Entrega 3 previamente enviada pelo grupo e feedback da professora em 07/11/2026.
