@@ -1,0 +1,27 @@
+DEMONSTRACAO AUTOMATICA - dados ficticios, SMS e cartao simulados
+[SMS SIMULADO para 11999990000] Codigo: 123456
+FA1 tentativa 1: false
+FA1 tentativa 2: false
+FA1 tentativa 3: false
+Tentativas restantes: 0. Solicitando novo codigo.
+[SMS SIMULADO para 11999990000] Codigo: 123456
+Codigo correto: true
+FA2: Selecione de 1 a 5 refeicoes principais.
+Endereco confirmado -> AGUARDANDO_PAGAMENTO
+FA3 pagamento recusado: false
+Status mantido: AGUARDANDO_PAGAMENTO
+Nova tentativa aprovada: true
+Plano: Plano semanal 5
+Periodicidade: Semanal
+Preferencia: VEGETARIANA_SEM_LACTOSE
+Refeicoes: 5
+  5 x Lentilhas com legumes
+  5 x Arroz integral
+  5 x Salada de frutas
+Endereco: Rua Exemplo, 10 - Centro, Sao Paulo/SP CEP 01001000
+Primeira entrega: 2026-11-17
+Total: R$ 125.00
+Assinatura: ATIVA
+Pedido: APROVADO
+Protocolo: MR-47422C82-CBA3-4020-988F-BA5795087C1A
+RECARGA DO ARQUIVO TXT -> ATIVA
